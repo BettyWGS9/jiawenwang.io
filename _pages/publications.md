@@ -15,4 +15,3 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Xie Z, Wang J, Hong X, et al. A blockchain-based platform of housing provident fund asset-backed securitization[C]//2022 IEEE Asia-Pacific Conference on Image Processing, Electronics and Computers (IPEC). IEEE, 2022: 50-55.
