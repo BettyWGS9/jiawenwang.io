@@ -1,7 +1,7 @@
 ---
 title: "A blockchain-based scheme of data sharing for housing provident fund"
 collection: publications
-permalink: /publication/2021-9-10-A blockchain-based scheme of data sharing for housing provident fund.md
+permalink: /publication/2021-9-10-A blockchain-based scheme of data sharing for housing provident fund
 date: 2021-9-10
 venue: 'Data Science: 7th International Conference of Pioneering Computer Scientists, Engineers and Educators, ICPCSEE'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-981-16-5940-9_1'
