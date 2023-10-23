@@ -11,30 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Networking Engineering, Yunnan University, 2017
+* M.E. in Cyberspace Security, University of Chinese Academy of Sciences (UCAS) , 2024
 
-Work experience
+Intern experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 11/2019 – 02/2022: Intern in Technical Consulting Department
+  * Echaincity Technology Co., Ltd. 
+  * Duties included: Project development, research, book and paper writing
+  * Supervisor: Dr. YIN Keting
 
 Publications
 ======
@@ -42,18 +27,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
+Honor & Award
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 1st Prize of 8th MEI YA CUP China Digital Data Forensics Competition
+* 2nd Prize of CHANG AN CUP Digital Forensics Competition 
+* 1st Class Scholarship of Yunnan University
+* Provincial Silver Award of 5th China College Students Internet+ Innovation and Entrepreneurship Competition
+* School Bronze Award of 5th China College Students Internet+ Innovation and Entrepreneurship Competition
+* 1st Class Scholarship of Yunnan University
+* Excellent Project Award of 2nd SHEN CHUANG CUP International University Students Innovation and Entrepreneurship Competition
