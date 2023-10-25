@@ -19,4 +19,4 @@ You can find my CV here: [Jiawen Wang's Curriculum Vitae](../assets/Curriculum_V
 
 Research Interests
 ------
-machine learning, deep learning, backdoor
+Cyber Security, Trustworthy Artificial Intelligence, Adversarial Machine Learning
